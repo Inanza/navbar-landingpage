@@ -1,0 +1,30 @@
+.open{
+    font-family: 'Open Sans', sans-serif;
+}
+.halyard text{
+    font-family: 'Halyard Text';
+}
+.nav-link {
+    font-size: 16px;
+    line-height: 80px;
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    
+}
+.nav-text {
+    color: #1E266D;
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 80px;
+    margin-right: 20px;
+}
+.nav-button {
+    border-radius: 20px;
+    font-size: 16px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: -5px;
+}
